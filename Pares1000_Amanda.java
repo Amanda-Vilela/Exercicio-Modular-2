@@ -3,7 +3,7 @@
  */
 package pares_amanda;
 
-import java.util.Scanner;
+
 
 /**
  *
